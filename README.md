@@ -12,7 +12,6 @@
 
 *Crafting scalable web apps and exploring hardware-software co-design — from Kot Addu, Pakistan 🇵🇰*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmad-rind&color=1D9E75&style=flat-square&label=Profile+Views)](https://github.com/ahmad-rind)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmad--rind-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmad-rind)
 [![Email](https://img.shields.io/badge/Email-ahmadrind20%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadrind20@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://uet-resource-huuild.vercel.app/)
@@ -107,12 +106,7 @@ class Engineer:
 
 ## 📊 `github_analytics.render()`
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmad-rind&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=1D9E75&text_color=888888&icon_color=1A5E50&border_color=1a1a2e&border_radius=12" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-rind&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=1D9E75&text_color=888888&border_color=1a1a2e&border_radius=12" />
-
-</div>
 
 <div align="center">
 
